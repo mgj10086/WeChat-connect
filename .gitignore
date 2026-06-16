@@ -7,6 +7,9 @@ node_modules/
 src/node_modules/
 .dist/
 
+# 凭据（含 Bot Token/Secret）
+.env
+
 # 系统文件
 Thumbs.db
 .DS_Store
