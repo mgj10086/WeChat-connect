@@ -1,0 +1,12 @@
+# 持久化数据
+data/*
+!data/.gitkeep
+
+# Node.js
+node_modules/
+src/node_modules/
+.dist/
+
+# 系统文件
+Thumbs.db
+.DS_Store
